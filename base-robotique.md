@@ -13,3 +13,11 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
 
  * **11/10/2018** : on a fait fonctionner les moteurs pas à pas avec l'Arduino
  * **25/10/2018** : mise en place du GitHub Polybot, essais avec l'ESP8266 pour avoir une console série à distance sur le robot
+
+## Tâches à réaliser
+
+ * [ ] Plate-forme mécanique
+ * [ ] Commande des moteurs 0% CPU avec la PWM
+ * [ ] Pilotage des moteurs à partir de la liason série
+ * [ ] Intégration de capteurs
+ * [ ] Alimentation électrique autonome du robot
