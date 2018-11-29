@@ -16,8 +16,8 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
 - Vis pololu
 - Jumper Breadboard & breadboard ([GoTronic](https://www.gotronic.fr/art-kit-plaque-de-montage-sd80a-25864.htm))
 - Assortiment R/C THT ([Résistances, GoTronic](https://www.gotronic.fr/art-assortiment-de-1000-resistances-1-4w-2615.htm) - [Condensateurs, GoTronic](https://www.gotronic.fr/art-assortiment-de-condensateurs-chimiques-3162.htm))
-- Connecteur Banane
-- Plaque de prototypage
+- Connecteur Banane ([GoTronic](https://www.gotronic.fr/art-douille-banane-3266n-15399.htm))
+- Plaque de prototypage, au moins 5 pcs ([GoTronic, référence EE80120](https://www.gotronic.fr/cat-plaques-d-essais-1472.htm))
  
 ## Journal de bord
 
