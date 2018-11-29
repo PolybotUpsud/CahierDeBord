@@ -10,13 +10,12 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
  * Carte de développement maison pour ESP12E/ESP8266
  
 ## Liste Materiel a acheter
-- Batterie mobile (2A, 5V)
-- Chargeur batterie
-- Convertisseurs de puissance 5V & 3V3
+- Batterie mobile (2A, 5V) ([Amazon](https://www.amazon.fr/AUKEY-Batterie-Power-Bank-Lightning-Samsung-S8/dp/B017KCFUZA/ref=sr_1_6?ie=UTF8&qid=1543504031&sr=8-6&keywords=batterie+usb))
+- Chargeur batterie ([Amazon](https://www.amazon.fr/dp/B07C91WFJG/ref=twister_B07D2BVN4T?_encoding=UTF8&th=1))
+- Convertisseurs de puissance 5V & 3V3 ([eBay](https://www.ebay.fr/itm/LM2596S-LM2596-Step-down-Regulateur-de-tension-reglable-5V-12V-24V-1235A/183478544621?_trkparms=aid%3D555017%26algo%3DPL.CASSINI%26ao%3D1%26asc%3D20180221161529%26meid%3Dc51a7cd6ebeb478390f2a8aee46a99c6%26pid%3D100506%26rk%3D1%26rkt%3D1%26%26itm%3D183478544621&_trksid=p2045573.c100506.m3226))
 - Vis pololu
-- Jumper Breadboard
-- Mini Breadboard
-- Assortiment R/C THT
+- Jumper Breadboard & breadboard ([GoTronic](https://www.gotronic.fr/art-kit-plaque-de-montage-sd80a-25864.htm))
+- Assortiment R/C THT ([Résistances, GoTronic](https://www.gotronic.fr/art-assortiment-de-1000-resistances-1-4w-2615.htm) - [Condensateurs, GoTronic](https://www.gotronic.fr/art-assortiment-de-condensateurs-chimiques-3162.htm))
 - Connecteur Banane
 - Plaque de prototypage
  
