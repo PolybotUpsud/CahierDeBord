@@ -9,6 +9,17 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
  * Driver moteur pap à base de Texas Instruments DRV8825
  * Carte de développement maison pour ESP12E/ESP8266
  
+## Liste Materiel a acheter
+- Batterie mobile (2A, 5V)
+- Chargeur batterie
+- Convertisseurs de puissance 5V & 3V3
+- Vis pololu
+- Jumper Breadboard
+- Mini Breadboard
+- Assortiment R/C THT
+- Connecteur Banane
+- Plaque de prototypage
+ 
 ## Journal de bord
 
  * **11/10/2018** : on a fait fonctionner les moteurs pas à pas avec l'Arduino
