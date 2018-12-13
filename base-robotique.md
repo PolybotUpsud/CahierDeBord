@@ -27,6 +27,8 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
  * **15/11/2018** : usinage d'un premier chassis à partir d'une carcasse d'un lecteur CD, essai des différents modes de pilotage du DRV8825 dans l'optique de limiter la conso électrique, bidouilles (infructueuses) pour fixer des roues au moteurs
  * **22/11/2018** : 
  * **29/11/2018** : Ajout de capacités de découplage sur les drivers de moteurs, toujours des problèmes de courant sur les moteurs PAP (passer sur des moteurs DC ?), prévision budget 2019, essai batterie LiPo 11.1v (elle semble OK)
+ * **06/12/2018** : Budget FSDIE, tentative supplémentaire de debug des drivers moteurs PAP
+ * **13/12/2018** : Travail sur l'interface de pilotage avec Qt, module capteur de proximité IR, modélisation base
 
 ## Tâches à réaliser
 
