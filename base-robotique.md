@@ -29,6 +29,9 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
  * **29/11/2018** : Ajout de capacités de découplage sur les drivers de moteurs, toujours des problèmes de courant sur les moteurs PAP (passer sur des moteurs DC ?), prévision budget 2019, essai batterie LiPo 11.1v (elle semble OK)
  * **06/12/2018** : Budget FSDIE, tentative supplémentaire de debug des drivers moteurs PAP
  * **13/12/2018** : Travail sur l'interface de pilotage avec Qt, module capteur de proximité IR, modélisation base
+ * **14/02/2019** : Déballage du robot-aspirateur, vérification du bon fonctionnement (commande a la télécommande). Travail sur le modele 3d de la voiture télécommandée.
+ * **21/02/2019** : Reprogrammation du robot-aspirateur, controle avec succès des moteurs et des LEDs avant, finalisation du modele 3d de la voiture (imprimante non dispo).
+ 
 
 ## Tâches à réaliser
 
