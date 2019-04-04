@@ -32,7 +32,8 @@ Le projet consiste en la création d'une base robotique general-purpose pour les
  * **7/02/2019** : Mise en place d'une mailing list, suite de la modelisation 3d et pont en H.
  * **14/02/2019** : Déballage du robot-aspirateur, vérification du bon fonctionnement (commande a la télécommande). Travail sur le modele 3d de la voiture télécommandée.
  * **21/02/2019** : Reprogrammation du robot-aspirateur, controle avec succès des moteurs et des LEDs avant, finalisation du modele 3d de la voiture (imprimante non dispo).
- 
+ * **.../03/2019** :
+ * **4/04/2019** :
 
 ## Tâches à réaliser
 
